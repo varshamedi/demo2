@@ -3,4 +3,6 @@ I decided to go with the installation guide and install it through Composer.
 After running composer update you can run the install script. You will be questioned for database credentials and your 
 ghjgfsd
 sgjghfdgfdfg
-gfdskjgkd
+gfdskjgkdvbcvvfgh
+ghjfjgh
+fujfgjghjg
